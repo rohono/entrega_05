@@ -8,3 +8,5 @@
 - A través de css, siguiendo https://aulacm.com/codigos-web-css-y-html-wordpress/ además de consultando de forma recurrente a Google y guiándonos con los videos anteriormente mencionados, creamos nuestro código de estilo, el cual fuimos modificando a medida que nuestro cuerpo de HTML obtenía la forma final. 
 - Entre todos estos procesos, Control S y Control Z fueron nuestros mejores aliados para el ensayo y error de la página web. 
 - Finalmente, agregar el JavaScript y comprender su funcionamiento fue difícil. Solo a través de la guía de los tutoriales de YouTube, ensayo y error y pruebas constantes de modificación de códigos, comandos, secciones y nombres de carpetas y archivos fue que logramos modificar este JSS a nuestro gusto.
+
+Link: https://youtu.be/GSdplbHm4wE
